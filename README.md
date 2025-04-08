@@ -1,12 +1,5 @@
 ## Olá! Eu sou FabricioRubim
 
-Here are some ideas to get you started:
-
-- 🔭 Desenvolvimento web no IOS
-- 🌱 Aprendendo: HTML, CSS e JS
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Faço animações/edição de video e sei um pouco de godot, scratch e gamemaker
-
 <h2 align="left">Stats:</h2>
 
 ###
