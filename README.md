@@ -1,4 +1,4 @@
-<h3 align="left">Oi, Bom dia, boa tarde ou boa noite Seja bem-vindo!</h3>
+<h3 align="left">Oi, Bom dia, boa tarde ou boa noite, seja bem-vindo!</h3>
 
 ###
 
