@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="left">Stats:</h2>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -31,11 +35,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Sans_Gamer">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sans_Gamer&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
