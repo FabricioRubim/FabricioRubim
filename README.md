@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Cursando no IOS <br>- Estou aprendendo HTML, CSS e JS<br>- Pretendo futuramente criar jogos 2d e 3d, para ser um desenvolvedor de games indie<br>- Criador de conteúdo<br>- Animador/Editor de video e Spriter de pixel arte</p>
+<p align="left">- Cursando no IOS <br>- Estou aprendendo HTML, CSS e JS<br>- Pretendo futuramente criar jogos 2d e 3d, para ser um desenvolvedor de games indie<br>- Criador de conteúdo<br>- Animador/Editor de video e Spriter de pixel arte<br>- Tenho interesse também em Cyber security</p>
 
 ###
 
