@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá Bom dia, boa tarde ou boa noite.<br>Eu sou Fabrício sou um programador curioso <br>Tenho interesse em: Back-end, Cyber Security e Game dev<br>Estou determinado em me tornar um desenvolvedor renomado a resolver<br>problemas e ajudar os outros.<br>Hoje em dia eu estou programando em C, mas estou pretendendo evoluir mais!<br><br>Tem algum problema? é só me chamar!
+Olá Bom dia, boa tarde ou boa noite.<br>Eu sou Fabrício sou um programador curioso <br>Tenho interesse em: Back-end, Cyber Security e Game dev<br>Estou determinado em me tornar um desenvolvedor renomado a resolver<br>problemas e ajudar os outros.<br>Hoje em dia eu estou programando em C, mas estou pretendendo evoluir mais!<br><br>**Tem algum problema? é só me chamar!**
 
 
 ## 🌐 Socials:
