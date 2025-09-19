@@ -16,6 +16,13 @@
 
 ###
 
+<h3 align="left">Meus momentos de lazer você pode me encontrar:</h3>
+
+###
+
+<p align="left">Jogando, fazendo animações, desenhando pixel arte, assistindo videos e gravando algum video talvez?<br><br>
+  
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
