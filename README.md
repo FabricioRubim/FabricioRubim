@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Jogando, fazendo animações, desenhando pixel arte, assistindo videos e gravando algum video talvez?<br><br>
+<p align="left">- Jogando, fazendo animações, desenhando pixel arte, assistindo videos e gravando algum video talvez?<br><br>
   
 ###
 <h3 align="left">🛠 Language and tools</h3>
