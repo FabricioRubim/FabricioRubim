@@ -4,23 +4,23 @@
 
 ###
 
-<h1 align="center">Olá bom dia, boa tarde ou boa noite👋</h1>
+<h1 align="center">Hello world, good morning, good afternoon or good evening👋👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">Eu sou Fabrício sou um programador curioso<br><br>- 👀 Tenho interesse em: Back-end, Cyber Security e Game dev<br>- 💻 Estou determinado em me tornar um desenvolvedor renomado a resolver<br>problemas e ajudar os outros.<br>- 📚 Hoje em dia eu estou programando em C, mas estou pretendendo evoluir mais!</p>
-
-###
-
-<h3 align="left">🔑🔓 Meus momentos de lazer você pode me encontrar:</h3>
+###and
+<p align="left">My name's Fabrício, i am from brazil, I'm a curious programmer<br><br>- 👀 I'm interested in: Back-end, Cyber Security and Game dev<br>- 💻 I am determined to become a renowned developer solving
+problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm looking to evolve further!</p>
 
 ###
 
-<p align="left">- Jogando, fazendo animações, desenhando pixel arte, assistindo videos, escutando lo-fi e gravando algum video talvez?<br><br>
+<h3 align="left">🔑🔓 My leisure moments you can find me:</h3>
+
+###
+
+<p align="left">- Playing games, making animations, drawing pixel art, watching videos, listening to lo-fi and recording a video perhaps?<br><br>
   
 ###
 <h3 align="left">🛠 Language and tools</h3>
