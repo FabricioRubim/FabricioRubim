@@ -10,7 +10,8 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###and
+###
+
 <p align="left">My name's Fabrício, i am from brazil 🇧🇷, I'm a curious programmer<br><br>- 👀 I'm interested in: Back-end, Cyber Security and Game dev<br>- 💻 I am determined to become a renowned developer solving
 problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm looking to evolve further!</p>
 
