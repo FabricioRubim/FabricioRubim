@@ -24,7 +24,7 @@ problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm
 <p align="left">- Playing games, making animations, drawing pixel art, watching videos, listening to lo-fi and recording a video perhaps?<br><br>
   
 ###
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language</h3>
 
 ###
 
@@ -35,11 +35,19 @@ problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
+</div>
+
+###
+
+<h3>Tools</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
 ###
