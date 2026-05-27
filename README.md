@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name's Fabrício, i am from brazil 🇧🇷, I'm a curious programmer<br><br>- 👀 I'm interested in: Back-end, Cyber Security and Game dev<br>- 💻 I am determined to become a renowned developer solving
+<p align="left">My name's Fabrício, i am from brazil 🇧🇷, I'm a curious programmer and Computer Science student<br><br>- 👀 I'm interested in: Back-end, Cyber Security and Game dev<br>- 💻 I am determined to become a renowned developer solving
 problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm looking to evolve further!</p>
 
 ###
