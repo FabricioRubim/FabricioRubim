@@ -13,7 +13,7 @@
 ###
 
 <p align="left">My name's Fabrício, i am from brazil 🇧🇷, I'm a curious programmer and Computer Science student<br><br>- 👀 I'm interested in: Back-end, Cyber Security and Game dev<br>- 💻 I am determined to become a renowned developer solving
-problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm looking to evolve further!</p>
+problems and help others.<br>- 📚 Nowadays I'm programming in C/C++, Python and Java, but I'm looking to evolve further!</p>
 
 ###
 
@@ -30,6 +30,8 @@ problems and help others.<br>- 📚 Nowadays I'm programming in C & C++, but I'm
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
